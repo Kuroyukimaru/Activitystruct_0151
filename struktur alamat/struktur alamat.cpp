@@ -34,6 +34,6 @@ int main() {
 	cout << "\n Nama :" << mhs.nama;
 	cout << "\n Alamat :" << endl;
 	cout << "\n \t Desa :" << mhs.alamat.desa;
-	cout << "\t Kota :" << mhs.alamat.kota;
+	cout << "\n \t Kota :" << mhs.alamat.kota;
 	cout << "\n Umur :" << mhs.umur;
 }
