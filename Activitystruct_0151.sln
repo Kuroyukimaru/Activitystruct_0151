@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Activitystruct_0151", "Activitystruct_0151\Activitystruct_0151.vcxproj", "{6FA3A788-B872-47F1-906F-D0D5BC86E53A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struktur alamat", "struktur alamat\struktur alamat.vcxproj", "{97D51796-37B6-49A0-A15F-FAA7532DF27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{6FA3A788-B872-47F1-906F-D0D5BC86E53A}.Release|x64.Build.0 = Release|x64
 		{6FA3A788-B872-47F1-906F-D0D5BC86E53A}.Release|x86.ActiveCfg = Release|Win32
 		{6FA3A788-B872-47F1-906F-D0D5BC86E53A}.Release|x86.Build.0 = Release|Win32
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Debug|x64.ActiveCfg = Debug|x64
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Debug|x64.Build.0 = Debug|x64
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Debug|x86.ActiveCfg = Debug|Win32
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Debug|x86.Build.0 = Debug|Win32
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Release|x64.ActiveCfg = Release|x64
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Release|x64.Build.0 = Release|x64
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Release|x86.ActiveCfg = Release|Win32
+		{97D51796-37B6-49A0-A15F-FAA7532DF27C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
