@@ -18,16 +18,16 @@ int main() {
 	cout << "Nomor Mahasiswa :";
 	cin >> mhs.nim;
 	cout << "Nama Mahasiswa :";
-	cin.getline(mhs.nama,25);
-	cin.ignore(1, '\n');
+	getline(cin,mhs.nama);
+	
 
 	cout << "Alamat Mahasiswa :";
 	cout << "\t Nama Desa :";
 	cin >> mhs.alamat.desa;
-	cin.ignore(1, '\n');
+	
 	cout << "\t Kota Mahasiswa :";
 	cin >> mhs.alamat.kota;
-	cin.ignore(1, '\n');
+	
 
 	cout << "Umur Mahasiswa :";
 	cin >> mhs.umur;
