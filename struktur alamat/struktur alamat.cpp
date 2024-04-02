@@ -22,7 +22,7 @@ int main() {
 
 	cout << "Alamat Mahasiswa :";
 	cout << "\t Nama Desa :"
-	
+	cin >> mhs.alamat.desa;
 
 	cout << "Umur Mahasiswa :";
 	cin >> mhs.umur;
